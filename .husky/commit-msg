@@ -1,0 +1,1 @@
+npx conventional-commits "$1" < /dev/tty
